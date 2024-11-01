@@ -1,0 +1,19 @@
+{
+  "name": "interactive-map-library",
+  "version": "1.0.0",
+  "description": "A simple interactive map library using Leaflet.",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+      "map",
+      "leaflet",
+      "interactive"
+  ],
+  "author": "Zuhair khan",
+  "license": "MIT",
+  "dependencies": {
+      "leaflet": "^1.7.1"
+  }
+}
