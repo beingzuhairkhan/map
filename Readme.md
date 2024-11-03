@@ -116,7 +116,7 @@ After installing the library, create an HTML file (e.g., `index.html`) to utiliz
     <script src="https://unpkg.com/leaflet-draw/dist/leaflet.draw.js"></script>
 
     <!-- External JavaScript File -->
-    <script src="./node_modules/interactive-map-library/index.js"></script>
+    <script src="./node_modules/interactive-map-library/InteractiveMap.js"></script>
 </body>
 
 </html>
